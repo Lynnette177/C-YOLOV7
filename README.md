@@ -1,6 +1,6 @@
 # C-YOLOV7
 Detection.Most important is emotion detection.
-Bulid fully in C++
+Bulid fully in C++.Unrar to get include file,headfile,onnx file,dll file.
 
 With compiled OPENCV3.7,completely rebuild with RTX 3070TI,so you are able to use it by directly downloading instead of compiling by yourself,saving tons of time.	
 
