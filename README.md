@@ -17,3 +17,8 @@ Face detecion,showing how many person is captured by camera.And each person's ex
 Show the probability of each expression appearing,and save data into a txt,naming by time.
 
 Mouse box selection detection area.
+
+# C++实现的人脸表情识别系统
+包含功能：数据显示、存储、人数统计、表情占比、ImGui  
+包含onnx：9000图300轮 8000验证图  
+北京邮电大学雏雁计划参赛作品、网安院C++课程期末结课项目
